@@ -25,17 +25,17 @@ The pipeline covers everything from raw data ingestion to model evaluation, maki
 
 🛠️ Tech Stack
 
-| Component            | Technology |
+| Component                  | Technology |
 
-| 📊 Data Handling    | NumPy, Pandas |
+| 📊 Data Handling          | NumPy, Pandas |
 
-| 📉 Visualization    | Matplotlib, Seaborn |
+| 📉 Visualization          | Matplotlib, Seaborn |
 
-| 🤖 ML Models        | Scikit-learn, XGBoost |
+| 🤖 ML Models              | Scikit-learn, XGBoost |
 
-| 📐 Statistics       | SciPy |
+| 📐 Statistics             | SciPy |
 
-| 🔁 Validation       | StratifiedKFold, cross_val_score |
+| 🔁 Validation             | StratifiedKFold, cross_val_score |
 
 
 
