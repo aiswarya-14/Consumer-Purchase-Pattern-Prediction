@@ -61,13 +61,7 @@ The pipeline covers everything from raw data ingestion to model evaluation, maki
 - Uses a **70/30 sequential split** for train/test.
 - Evaluates all five models with accuracy, full classification report, and a confusion matrix heatmap.
 
-| Model                  | Notes |
 
-| Decision Tree         | Interpretable baseline |
-| Random Forest         | Ensemble, handles noise well |
-| Perceptron            | Fast linear classifier |
-| Logistic Regression   | Probabilistic linear model |
-| MLP Classifier        | Neural net with logistic activation |
 
 **Evaluation:** Accuracy · Precision · Recall · F1-score · Confusion Matrix
 
